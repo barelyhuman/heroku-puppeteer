@@ -1,0 +1,13 @@
+{
+  "name": "heroku-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Reaper <ahoy@barelyhuman.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-block-resources": "^2.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
